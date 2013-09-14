@@ -1,0 +1,16 @@
+table {
+	width: 100%;
+}
+
+thead {
+	font-weight: 500;
+}
+
+th {
+	border: 1px solid #000000;
+	font-weight: 150;
+}
+
+li {
+	text-align: left;
+}
